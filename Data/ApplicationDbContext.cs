@@ -21,7 +21,7 @@ namespace VeekelApi.Data
         public DbSet<MobileSession> MobileSessions { get; set; }
         public DbSet<VehicleListing> VehicleListings { get; set; }
         public DbSet<Currency> Currencies { get; set; }
-        public DbSet<ConfigHash> ConfigHashes { get; set; } 
+        public DbSet<ConfigHash> ConfigHashes { get; set; }  
         public DbSet<VehicleImage> VehicleImages { get; set; }
 
     }
