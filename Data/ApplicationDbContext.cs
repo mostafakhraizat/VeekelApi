@@ -25,5 +25,4 @@ namespace VeekelApi.Data
         public DbSet<VehicleImage> VehicleImages { get; set; }
 
     }
-}
- 
+} 
